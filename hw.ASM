@@ -84,5 +84,6 @@ divide:
 
 
 xor:
-    
+   calzşci z
+   
 
